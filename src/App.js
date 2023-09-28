@@ -71,11 +71,11 @@ function App() {
             <span id="element"><MyComponent /></span>
             <div className="mainbtn">
               <button className="mybtn resumebtn">
-                <img src="/resumepng.png" alt="" />
-                <a href="/Himanshu Sanga (3).pdf" download>Download Resume</a>
+                <img src={require('./resumepng.png')} alt="" />
+                <a href={require('./Himanshu Sanga (3).pdf')} download>Download Resume</a>
               </button>
               <button className="mybtn">
-                <img src="/linkedin.png" alt="" />
+                <img src={require('./linkedin.png')} alt="" />
                 <a href="https://www.linkedin.com/in/himanshu-sanga-970a05172/"
                 >Linkedin</a
                 >
@@ -83,7 +83,7 @@ function App() {
             </div>
           </div>
           <div className="rightSection">
-            <img src="/main.png" alt="webdevelopergif" />
+            <img src={require('./main.png')} alt="webdevelopergif" />
           </div>
         </section>
         <hr />
@@ -103,8 +103,8 @@ function App() {
             </p>
           </div>
           <div className="imagecontainer">
-            <img className="img1" src="/aboutme.png" alt="" />
-            <img className='img2' src="/aboutmebackground.jpg" alt="" />
+            <img className="img1" src={require('./aboutme.png')} alt="" />
+            <img className='img2' src={require('./aboutmebackground.jpg')} alt="" />
           </div>
         </section>
         <div className='secondhr'>
@@ -115,26 +115,26 @@ function App() {
           <div className="mainbox">
             <div className="box">
               <div className="verticalline line1">
-                <img src="/responsivewebsite.png" alt="" id='responsivepng' />
+                <img src={require('./responsivewebsite.png')} alt="" id='responsivepng' />
                 <div className="project1">
                   Responsive Website
                   <span>(IEducate)</span>
                 </div>
                 <div className="project1description">
-                  <img id="#gif" src="/responsive.gif" alt="" />
+                  <img id="#gif" src={require('./responsive.gif')} alt="" />
                   A responsive webpage by using HTML,CSS and JS and also added the
                   Hamburger Menu and Sticky Navbar for better view and easy
                   navigation.
                 </div>
               </div>
               <div className="verticalline line2">
-                <img src="/textutils.png" alt="" id='textutilspng'/>
+                <img src={require('./textutils.png')} alt="" id='textutilspng'/>
                 <div className="project2">
                   TextUtility Website
                   <span>(To modify your texts)</span>
                 </div>
                 <div className="project2description">
-                  <img id="#gif" src="/textanalyzer.gif" alt=""/>
+                  <img id="#gif" src={require('./textanalyzer.gif')} alt=""/>
                   Website created with the help of CSS, HTML, JS and React JS is
                   used to modify your texts and change it to desired result with
                   the help of given options you can also use dark mode and light
@@ -144,18 +144,18 @@ function App() {
                 </div>
               </div>
               <div className="verticalline line3">
-                <img src="/spotify.png" alt="" id='spotifypng'/>
+                <img src={require('./spotify.png')} alt="" id='spotifypng'/>
                 <div className="project3">Spotify Clone</div>
                 <div className="project3description">
-                  <img id="#gif" src="/spotify.gif" alt="" />
+                  <img id="#gif" src={require('./spotify.gif')} alt="" />
                   A place where you can listen all your favorite song.
                 </div>
               </div>
               <div className="verticalline line4">
-                <img src="/calculator.png" alt="" id='calculatorpng'/>
+                <img src={require('./calculator.png')} alt="" id='calculatorpng'/>
                 <div className="project4">Simple Calculator</div>
                 <div className="project4description">
-                  <img id="#gif" src="/calculater.gif" alt="" />
+                  <img id="#gif" src={require('./calculater.gif')} alt="" />
                   This is the simple calculator to add,
                   subtract, divide and many other options to increase the
                   productivity of your work
