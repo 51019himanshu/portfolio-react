@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.6e6a1cb8.css",
-    "main.js": "/portfolio-react/static/js/main.1bb7f35b.js",
+    "main.css": "/portfolio-react/static/css/main.741a6875.css",
+    "main.js": "/portfolio-react/static/js/main.90ba2ba1.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/responsive.gif": "/portfolio-react/static/media/responsive.c2e07b50c67b091c12dc.gif",
-    "static/media/calculater.gif": "/portfolio-react/static/media/calculater.30b97a625e05aa9aac73.gif",
+    "static/media/weather.gif": "/portfolio-react/static/media/weather.2bcc7871fc9c9b06bf5b.gif",
+    "static/media/Himanshu_sanga_resume.pdf": "/portfolio-react/static/media/Himanshu_sanga_resume.71f74a1458746c26dba5.pdf",
     "static/media/textanalyzer.gif": "/portfolio-react/static/media/textanalyzer.6eab73449ea23590c93a.gif",
     "static/media/main.png": "/portfolio-react/static/media/main.68631c432ffc6fc2b97d.png",
-    "static/media/Himanshu Sanga (3).pdf": "/portfolio-react/static/media/Himanshu Sanga (3).a6548075e16013f75e84.pdf",
     "static/media/spotify.gif": "/portfolio-react/static/media/spotify.862c9ca77a414dfb2845.gif",
     "static/media/spotify.png": "/portfolio-react/static/media/spotify.dffc4909754b59b8ad58.png",
+    "static/media/weatherpng.png": "/portfolio-react/static/media/weatherpng.e1b3c3982fbe40e4b005.png",
     "static/media/aboutme.png": "/portfolio-react/static/media/aboutme.75a9c39d29e648d2f50e.png",
     "static/media/resumepng.png": "/portfolio-react/static/media/resumepng.f63b08f01a490bafa747.png",
     "static/media/textutils.png": "/portfolio-react/static/media/textutils.617260f0cfe883b5d3c8.png",
-    "static/media/calculator.png": "/portfolio-react/static/media/calculator.946f9fc69603a3ac9724.png",
     "static/media/responsivewebsite.png": "/portfolio-react/static/media/responsivewebsite.735c45020c3824c42e6d.png",
     "static/media/linkedin.png": "/portfolio-react/static/media/linkedin.e15509efd146d4ae9e53.png",
     "index.html": "/portfolio-react/index.html",
-    "main.6e6a1cb8.css.map": "/portfolio-react/static/css/main.6e6a1cb8.css.map",
-    "main.1bb7f35b.js.map": "/portfolio-react/static/js/main.1bb7f35b.js.map",
+    "main.741a6875.css.map": "/portfolio-react/static/css/main.741a6875.css.map",
+    "main.90ba2ba1.js.map": "/portfolio-react/static/js/main.90ba2ba1.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e6a1cb8.css",
-    "static/js/main.1bb7f35b.js"
+    "static/css/main.741a6875.css",
+    "static/js/main.90ba2ba1.js"
   ]
 }
