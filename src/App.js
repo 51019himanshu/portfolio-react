@@ -72,7 +72,7 @@ function App() {
             <div className="mainbtn">
               <button className="mybtn resumebtn">
                 <img src={require('./resumepng.png')} alt="" />
-                <a href={require('./Himanshu Sanga (3).pdf')} download>Download Resume</a>
+                <a href={require('./Himanshu_sanga_resume.pdf')} download>Download Resume</a>
               </button>
               <button className="mybtn">
                 <img src={require('./linkedin.png')} alt="" />
@@ -128,13 +128,13 @@ function App() {
                 </div>
               </div>
               <div className="verticalline line2">
-                <img src={require('./textutils.png')} alt="" id='textutilspng'/>
+                <img src={require('./textutils.png')} alt="" id='textutilspng' />
                 <div className="project2">
                   TextUtility Website
                   <span>(To modify your texts)</span>
                 </div>
                 <div className="project2description">
-                  <img id="#gif" src={require('./textanalyzer.gif')} alt=""/>
+                  <img id="#gif" src={require('./textanalyzer.gif')} alt="" />
                   Website created with the help of CSS, HTML, JS and React JS is
                   used to modify your texts and change it to desired result with
                   the help of given options you can also use dark mode and light
@@ -144,21 +144,19 @@ function App() {
                 </div>
               </div>
               <div className="verticalline line3">
-                <img src={require('./spotify.png')} alt="" id='spotifypng'/>
+                <img src={require('./spotify.png')} alt="" id='spotifypng' />
                 <div className="project3">Spotify Clone</div>
                 <div className="project3description">
                   <img id="#gif" src={require('./spotify.gif')} alt="" />
-                  A place where you can listen all your favorite song.
+                  <p>A place where you can listen all your favorite song.</p>
                 </div>
               </div>
               <div className="verticalline line4">
-                <img src={require('./calculator.png')} alt="" id='calculatorpng'/>
-                <div className="project4">Simple Calculator</div>
+                <img src={require('./weatherpng.png')} alt="" id='calculatorpng' />
+                <div className="project4">WeatherCall App</div>
                 <div className="project4description">
-                  <img id="#gif" src={require('./calculater.gif')} alt="" />
-                  This is the simple calculator to add,
-                  subtract, divide and many other options to increase the
-                  productivity of your work
+                  <img id="#gif" src={require('./weather.gif')} alt="" />
+                  <p>This is the Weather Call application, which provides comprehensive weather information, including temperature data, for cities worldwide. The app features a user-friendly interface and offers additional data such as humidity, wind speed, and more. Additionally, it provides a convenient five-day weather forecast for the selected city, along with five different hourly forecasts for the same day.</p>
                 </div>
               </div>
             </div>

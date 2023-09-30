@@ -804,5 +804,8 @@ body hr {
     top: -45px;
     height: 30px;
   }
+  .thirdhr{
+    padding-top: 220px;
+  }
 
 }
