@@ -72,7 +72,7 @@ function App() {
             <div className="mainbtn">
               <button className="mybtn resumebtn">
                 <img src={require('./resumepng.png')} alt="" />
-                <a href={require('./RESUME-HS.pdf')} download>Download Resume</a>
+                <a href={require('./RESUME-hs.pdf')} download>Download Resume</a>
               </button>
               <button className="mybtn">
                 <img src={require('./linkedin.png')} alt="" />
